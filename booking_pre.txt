@@ -1,0 +1,113 @@
+Harriet,Tsang,2018-11-30,1:20 PM,A Star is Born,E8
+Harriet,Tsang,2018-12-25,11:00 AM,Welcome to Christmas,E6
+Bradley,Cooper,2018-11-30,4:50 PM,A Star is Born,C8
+Gaga,Gaga,2018-11-30,4:50 PM,A Star is Born,C7
+Robert,Downey,2018-11-30,1:20 PM,A Star is Born,D6
+Chris,Evan,2019-01-02,3:40 PM,Toy Story 4,C3
+Robert,Downey,2019-01-05,12:10 PM,Captain Marvel,D6
+Robert,Downey,2019-01-10,6:00 PM,Excel Me,F6
+Harriet,Tsang,2019-01-01,9:30 PM,Toy Story 4,D6
+Harriet,Tsang,2019-01-12,1:20 PM,Harry Potter and the Cursed Child Part I&II,F7
+Harriet,Tsang,2019-01-09,4:50 PM,Captain Marvel,E7
+Harriet,Tsang,2019-01-09,4:50 PM,Captain Marvel,E8
+Harriet,Tsang,2019-01-01,9:30 PM,Toy Story 4,E7
+Chris,Evan,2019-01-15,4:50 PM,Captain Marvel,J7
+Chris,Evan,2019-01-15,4:50 PM,Captain Marvel,J8
+Harriet,Tsang,2019-01-06,2:30 PM,Avengers: Endgame,F7
+Harriet,Tsang,2019-01-06,2:30 PM,Avengers: Endgame,F8
+Harriet,Tsang,2019-01-01,6:00 PM,New York,E7
+Tom,Holland,2019-01-06,8:20 PM,The Fantastic Five,F6
+Tom,Holland,2019-01-06,8:20 PM,The Fantastic Five,F7
+Tom,Holland,2019-01-13,7:10 PM,A Christmas Arrangement,G6
+Tom,Holland,2019-01-13,7:10 PM,A Christmas Arrangement,G7
+Scarlett,Johansson,2019-01-15,4:50 PM,Captain Marvel,G5
+Scarlett,Johansson,2019-01-10,11:00 AM,Drones,G8
+Scarlett,Johansson,2019-01-13,2:30 PM,Christmas with Paddington in London,A12
+Scarlett,Johansson,2019-01-13,2:30 PM,Christmas with Paddington in London,A13
+Scarlett,Johansson,2019-01-20,2:30 PM,Crazy Rich Asians,J1
+Scarlett,Johansson,2019-01-20,2:30 PM,Crazy Rich Asians,J7
+Angelina,Jolie,2019-01-13,1:20 PM,Harry Potter Marathon,J11
+Angelina,Jolie,2019-01-13,1:20 PM,Harry Potter Marathon,J12
+Angelina,Jolie,2019-01-13,1:20 PM,Harry Potter Marathon,J13
+Angelina,Jolie,2019-01-01,10:40 PM,Harry Potter and the Cursed Child Part I&II,J1
+Angelina,Jolie,2019-01-01,10:40 PM,Harry Potter and the Cursed Child Part I&II,J2
+Angelina,Jolie,2019-01-11,12:10 PM,Captain Marvel,J7
+Angelina,Jolie,2019-01-11,12:10 PM,Captain Marvel,J8
+Gaga,Gaga,2019-01-08,3:40 PM,Toy Story 4,G7
+Gaga,Gaga,2019-01-11,12:10 PM,Captain Marvel,G9
+Gaga,Gaga,2019-01-11,12:10 PM,Captain Marvel,G10
+Gaga,Gaga,2019-01-12,6:00 PM,Excel Me,I4
+Gaga,Gaga,2019-01-12,6:00 PM,Excel Me,I5
+Gaga,Gaga,2019-01-12,11:00 AM,Drones,G9
+Gaga,Gaga,2019-01-12,11:00 AM,Drones,G10
+Gaga,Gaga,2019-01-12,11:00 AM,Drones,G11
+Gaga,Gaga,2019-01-14,3:40 PM,Toy Story 4,I1
+Gaga,Gaga,2019-01-14,3:40 PM,Toy Story 4,I2
+Bradley,Cooper,2019-01-11,8:40 AM,A Christmas Carol,E1
+Bradley,Cooper,2019-01-11,8:40 AM,A Christmas Carol,E2
+Bradley,Cooper,2019-01-11,4:50 PM,Captain Marvel,G5
+Bradley,Cooper,2019-01-11,4:50 PM,Captain Marvel,G6
+Bradley,Cooper,2019-01-13,7:10 PM,A Christmas Arrangement,I9
+Bradley,Cooper,2019-01-13,7:10 PM,A Christmas Arrangement,I10
+Bradley,Cooper,2019-01-15,2:30 PM,Christmas with Paddington in London,I4
+Bradley,Cooper,2019-01-15,2:30 PM,Christmas with Paddington in London,I5
+Bradley,Cooper,2019-01-15,2:30 PM,Christmas with Paddington in London,I6
+Bradley,Cooper,2019-01-12,8:20 PM,The Fantastic Five,J9
+Bradley,Cooper,2019-01-12,8:20 PM,The Fantastic Five,J10
+Spider,Man,2019-01-08,2:30 PM,Avengers: Endgame,G5
+Spider,Man,2019-01-08,2:30 PM,Avengers: Endgame,H6
+Spider,Man,2019-01-11,1:20 PM,Harry Potter Marathon,F6
+Spider,Man,2019-01-11,1:20 PM,Harry Potter Marathon,F7
+Spider,Man,2019-01-11,1:20 PM,Harry Potter Marathon,F8
+Spider,Man,2019-01-12,11:00 AM,Drones,D5
+Spider,Man,2019-01-12,11:00 AM,Drones,D6
+Spider,Man,2019-01-05,1:20 PM,Harry Potter Marathon,G5
+Spider,Man,2019-01-05,1:20 PM,Harry Potter Marathon,G6
+Spider,Man,2019-01-05,1:20 PM,Harry Potter Marathon,G7
+Spider,Man,2019-01-20,2:30 PM,Crazy Rich Asians,E9
+Spider,Man,2019-01-20,2:30 PM,Crazy Rich Asians,E10
+Robert,Downey,2019-01-12,3:40 PM,Toy Story 4,G5
+Robert,Downey,2019-01-12,3:40 PM,Toy Story 4,G6
+Robert,Downey,2019-01-01,6:00 PM,New York,G2
+Robert,Downey,2019-01-01,6:00 PM,New York,G3
+Robert,Downey,2019-01-13,2:30 PM,Christmas with Paddington in London,I6
+Robert,Downey,2019-01-13,2:30 PM,Christmas with Paddington in London,I7
+Robert,Downey,2019-01-13,2:30 PM,Christmas with Paddington in London,I8
+Robert,Downey,2019-01-11,8:40 AM,A Christmas Carol,H7
+Robert,Downey,2019-01-11,8:40 AM,A Christmas Carol,H8
+Robert,Downey,2019-01-12,6:00 PM,Excel Me,G9
+Robert,Downey,2019-01-12,6:00 PM,Excel Me,G10
+Robert,Downey,2019-01-12,6:00 PM,Excel Me,G11
+Chris,Hemsworth,2019-01-03,2:30 PM,Christmas with Paddington in London,F4
+Chris,Hemsworth,2019-01-03,2:30 PM,Christmas with Paddington in London,F5
+Chris,Hemsworth,2019-01-03,2:30 PM,Christmas with Paddington in London,F6
+Chris,Hemsworth,2019-01-03,2:30 PM,Christmas with Paddington in London,F7
+Chris,Hemsworth,2019-01-03,2:30 PM,Christmas with Paddington in London,F8
+Chris,Hemsworth,2019-01-11,10:40 PM,New York,H4
+Chris,Hemsworth,2019-01-11,10:40 PM,New York,H5
+Chris,Hemsworth,2019-01-11,10:40 PM,New York,H6
+Chris,Hemsworth,2019-01-11,10:40 PM,New York,H7
+Chris,Hemsworth,2019-01-12,2:30 PM,Avengers: Endgame,G9
+Chris,Hemsworth,2019-01-12,2:30 PM,Avengers: Endgame,G10
+Chris,Hemsworth,2019-01-12,2:30 PM,Avengers: Endgame,G11
+Chris,Hemsworth,2019-01-13,4:50 PM,Captain Marvel,I4
+Chris,Hemsworth,2019-01-13,4:50 PM,Captain Marvel,I5
+Chris,Hemsworth,2019-01-13,4:50 PM,Captain Marvel,I6
+Chris,Hemsworth,2019-01-13,4:50 PM,Captain Marvel,I7
+Harriet,Tsang,2019-01-04,2:30 PM,Avengers: Endgame,E7
+Harriet,Tsang,2019-01-04,2:30 PM,Avengers: Endgame,E8
+Spider,Man,2018-12-31,6:00 PM,Excel Me,F6
+Spider,Man,2018-12-31,6:00 PM,Excel Me,F7
+Spider,Man,2018-11-30,1:20 PM,A Star is Born,C8
+Christmas,Tree,2019-01-12,2:30 PM,Avengers: Endgame,F12
+Christmas,Tree,2019-01-19,1:20 PM,Captain Marvel,F6
+Christmas,Tree,2019-01-19,1:20 PM,Captain Marvel,F7
+Christmas,Tree,2019-01-19,1:20 PM,Captain Marvel,F8
+Christmas,Tree,2019-01-11,7:10 PM,New Year's Eve,G9
+Harriet,Tsang,2019-01-11,7:10 PM,New Year's Eve,H7
+Haow Jern,Tee,2019-01-13,12:10 PM,Captain Marvel,A7
+Haow Jern,Tee,2019-01-13,12:10 PM,Captain Marvel,A8
+Haow Jern,Tee,2019-01-13,12:10 PM,Captain Marvel,B7
+Haow Jern,Tee,2019-01-13,12:10 PM,Captain Marvel,B8
+oli,water,2019-01-12,9:50 AM,Christmas with Paddington in London,F3
+oli,water,2019-01-12,9:50 AM,Christmas with Paddington in London,F4

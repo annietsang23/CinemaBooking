@@ -1,0 +1,50 @@
+Title:A Christmas Carol
+Description:An animated retelling of Charles Dickens' classic novel about a Victorian-era miser taken on a journey of self-redemption, courtesy of several mysterious Christmas apparitions.
+
+Title:Welcome to Christmas
+Description:A resort developer, Madison, has to decide whether 'Christmas', a town full of spirit and tradition, is the best location for a new ski resort.
+
+Title:A Christmas Arrangement
+Description:When Poppy Benson joins the local holiday floral show in an effort to win a cash prize and keep her flower shop afloat, she starts to fall for her handsome competitor.
+
+Title:Christmas with Paddington in London
+Description:No public transport on Christmas Day? Paddington shows you how to explore the charm of London on foot and Santander bike.
+
+Title:Drones
+Description:This documentary shows you how to fly a drone and not to disturb the public - especially near the airport.
+
+Title:Captain Marvel
+Description:Pre-screening of the most-anticipated movie of the year - A female Captain Marvel finally comes!
+
+Title:Avengers: Endgame
+Description:Guess which Marvel hero can make it to Avenger 4.
+
+Title:Toy Story 4
+Description:So Andy has grown up. Where will Woddy,Buzz and the rest of the crew go next?
+
+Title:Excel Me
+Description:Unleash the power of excel - you have no idea how powerful it is!
+
+Title:The Fantastic Five
+Description:We are not talking about the Faang-tastic five since everyone knows about it. Confused? Yeah me too. Come check it out!
+
+Title:Harry Potter and the Cursed Child Part I&II
+Description:A Warner Bros production of the latest book written by JK Rowling, who decided to resume writing after seeing the critically reclaimed musical.
+
+Title:Harry Potter Marathon
+Description:A one-hour marathon of seven Harry Potter films for fans like you.
+
+Title:Crazy Rich Asians
+Description:This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.
+
+Title:A Star is Born
+Description:A musician helps a young singer find fame, even as age and alcoholism send his own career into a downward spiral.
+
+Title:New York
+Description:An adventure in New York.
+
+Title:Programming with kids
+Description:Show that programming is fun!
+
+Title:New Year's Eve
+Description:How to celebrate with your friends!

@@ -4,3 +4,4 @@ An introduction video of the cinema booking system features is available via the
 https://mediacentral.ucl.ac.uk/Play/16108
 
 The codes work with Python 3.7.
+Start the system by running the file launch.py

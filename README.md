@@ -11,7 +11,7 @@ The codes work with Python 3.7.
 Start the system by running the file launch.py
 
 <div class="sceenshot">
-<img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/login.jpeg" "hspace="5">
+<img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/login.jpeg" "hspace="5" width="350" height="200">
 <img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/contentpage.jpeg" "hspace="5">
 <img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/sceeningtime.jpeg" "hspace="5">
 <img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/bookseat.jpeg" "hspace="5">

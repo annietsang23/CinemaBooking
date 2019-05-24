@@ -1,7 +1,7 @@
 # CinemaBooking
 
 ## Overview
-This is a coursework for my python programming module at UCL. This is my first attempt using python Tkinter to produce GUI-based program. It is a cinema booking system and technology stack includes Python Tkinter and SQLite3. A list of dummy films running from October 2018 to January 2019 were inserted into the system.
+This is a coursework for my python programming module at UCL. This is my first attempt using python Tkinter to produce GUI-based program. It is a cinema booking system and technology stack includes Python Tkinter and SQLite3. A list of dummy films running from November 2018 to January 2019 were inserted into the system.
 
 An introduction video of the cinema booking system features is available via the link below:
 https://mediacentral.ucl.ac.uk/Play/16108

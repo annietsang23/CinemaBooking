@@ -10,6 +10,10 @@ The codes work with Python 3.7.
 
 Start the system by running the file launch.py
 
+<div class="sceenshot">
+<img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/bookinghistory.jpeg" "hspace="5" width="500" height="350"> 
+
+
 ## UI Design
 Python Tkinter is used primarily to create windows, text fields, buttons, tables, drop-down boxes etc. The design resembles a real cinema booking system and cinema room setting, by using Tkinter buttons as seats.
 

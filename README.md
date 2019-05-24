@@ -11,7 +11,7 @@ The codes work with Python 3.7.
 Start the system by running the file launch.py
 
 <div class="sceenshot">
-<img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/bookinghistory.jpeg" "hspace="5" width="500" height="350"> 
+<img src="https://github.com/annietsang23/CinemaBooking/blob/master/screenshots/bookinghistory.jpeg" "hspace="5"> 
 
 
 ## UI Design
